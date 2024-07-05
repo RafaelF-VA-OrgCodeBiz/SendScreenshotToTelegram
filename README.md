@@ -1,6 +1,5 @@
 # SendScreenshotToTelegram
 
-# send once and close program
 # define the specified screenshot areas to being blacked out before sending to telegram
 # Set an image caption
 
