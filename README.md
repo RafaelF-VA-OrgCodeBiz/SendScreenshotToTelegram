@@ -1,8 +1,15 @@
 # SendScreenshotToTelegram
 
-# define the specified screenshot areas to being blacked out before sending to telegram
-# Set an image caption
+Make a screenshot and send it (modified) to your telegram channel.  
 
-## save your configuration within the config.ini 
+You need the Telegram bot API token and the channel ID
 
-## Thanks to GPT for assistance
+Optional:
+- Set up to 4 specified areas on the screenshot to being blacked out before sending to telegram.
+- Set an image caption which will be also sent.
+
+Save your configuration within the config.ini 
+
+Thanks to GPT for assistance
+
+Enjoy
