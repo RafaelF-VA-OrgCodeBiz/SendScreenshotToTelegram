@@ -1,4 +1,4 @@
-# SendScreenshotToTelegram
+# Snap2Telegram
 
 # Added retry on error & most values from config.ini 
 # import config ini file with configparser
