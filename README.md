@@ -14,10 +14,15 @@ Thanks to GPT for assistance
 
 
 Enjoy
+#
 
-
-![Snap2Telegram_Preview](https://github.com/RafaelF-VA-OrgCodeBiz/Snap2Telegram/assets/174629724/fb6f7af2-bb44-44c8-abd1-ba1d2545821a)
 Sample screenshot chat preview
 
-![Snap2Telegram](https://github.com/RafaelF-VA-OrgCodeBiz/Snap2Telegram/assets/174629724/67802bb5-158c-43c7-a334-619e9f6abcf6)
+![Snap2Telegram_Preview](https://github.com/RafaelF-VA-OrgCodeBiz/Snap2Telegram/assets/174629724/fb6f7af2-bb44-44c8-abd1-ba1d2545821a)
+
+
+#
+
 Sample screenshot
+![Snap2Telegram](https://github.com/RafaelF-VA-OrgCodeBiz/Snap2Telegram/assets/174629724/67802bb5-158c-43c7-a334-619e9f6abcf6)
+
