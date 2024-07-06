@@ -1,4 +1,4 @@
-# SendScreenshotToTelegram
+# Snap2Telegram
 
 Make a screenshot and send it (modified) to your telegram channel.  
 
