@@ -12,4 +12,8 @@ Save your configuration within the config.ini
 
 Thanks to GPT for assistance
 
+
 Enjoy
+
+
+![Snap2Telegram_Preview](https://github.com/RafaelF-VA-OrgCodeBiz/Snap2Telegram/assets/174629724/fb6f7af2-bb44-44c8-abd1-ba1d2545821a)
